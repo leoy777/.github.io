@@ -47,6 +47,10 @@
         {
             "name": "pythonplayer123",
             "address": "https://ani3server.fly.dev"
+        },
+        {
+            "name": "[something identifiable like a username]",   //doesn't really matter unless you're sharing this server list with someone else
+            "address": "https://anisette-v3-server-fnb4.onrender.com"
         }
     ]
 }
